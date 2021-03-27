@@ -13,7 +13,7 @@ const profile = (props) => (
         <p>Location: "lorem ipsum"</p>
        </div>
        <div classname={classes.right}>
-        <h1>new right column</h1>
+        <h1>DASH BOARD</h1>
        </div>
     
     
